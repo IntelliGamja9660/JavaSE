@@ -26,4 +26,4 @@ public class Operator08 {
 		}
 	}
 
-
+// 둘이 같다!!!
